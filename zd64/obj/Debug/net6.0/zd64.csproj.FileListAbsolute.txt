@@ -1,0 +1,16 @@
+C:\Users\79160\Desktop\homework#9\zd64\obj\Debug\net6.0\zd64.GlobalUsings.g.cs
+C:\Users\79160\Desktop\homework#9\zd64\obj\Debug\net6.0\zd64.csproj.AssemblyReference.cache
+C:\Users\79160\Desktop\homework#9\zd64\obj\Debug\net6.0\zd64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79160\Desktop\homework#9\zd64\obj\Debug\net6.0\zd64.AssemblyInfoInputs.cache
+C:\Users\79160\Desktop\homework#9\zd64\obj\Debug\net6.0\zd64.AssemblyInfo.cs
+C:\Users\79160\Desktop\homework#9\zd64\obj\Debug\net6.0\zd64.csproj.CoreCompileInputs.cache
+C:\Users\79160\Desktop\homework#9\zd64\bin\Debug\net6.0\zd64.exe
+C:\Users\79160\Desktop\homework#9\zd64\bin\Debug\net6.0\zd64.deps.json
+C:\Users\79160\Desktop\homework#9\zd64\bin\Debug\net6.0\zd64.runtimeconfig.json
+C:\Users\79160\Desktop\homework#9\zd64\bin\Debug\net6.0\zd64.dll
+C:\Users\79160\Desktop\homework#9\zd64\bin\Debug\net6.0\ref\zd64.dll
+C:\Users\79160\Desktop\homework#9\zd64\bin\Debug\net6.0\zd64.pdb
+C:\Users\79160\Desktop\homework#9\zd64\obj\Debug\net6.0\zd64.dll
+C:\Users\79160\Desktop\homework#9\zd64\obj\Debug\net6.0\ref\zd64.dll
+C:\Users\79160\Desktop\homework#9\zd64\obj\Debug\net6.0\zd64.pdb
+C:\Users\79160\Desktop\homework#9\zd64\obj\Debug\net6.0\zd64.genruntimeconfig.cache
