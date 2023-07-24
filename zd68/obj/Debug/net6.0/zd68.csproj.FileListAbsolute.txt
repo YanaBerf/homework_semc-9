@@ -1,0 +1,16 @@
+C:\Users\79160\Desktop\homework#9\zd68\bin\Debug\net6.0\zd68.exe
+C:\Users\79160\Desktop\homework#9\zd68\bin\Debug\net6.0\zd68.deps.json
+C:\Users\79160\Desktop\homework#9\zd68\bin\Debug\net6.0\zd68.runtimeconfig.json
+C:\Users\79160\Desktop\homework#9\zd68\bin\Debug\net6.0\zd68.dll
+C:\Users\79160\Desktop\homework#9\zd68\bin\Debug\net6.0\ref\zd68.dll
+C:\Users\79160\Desktop\homework#9\zd68\bin\Debug\net6.0\zd68.pdb
+C:\Users\79160\Desktop\homework#9\zd68\obj\Debug\net6.0\zd68.GlobalUsings.g.cs
+C:\Users\79160\Desktop\homework#9\zd68\obj\Debug\net6.0\zd68.csproj.AssemblyReference.cache
+C:\Users\79160\Desktop\homework#9\zd68\obj\Debug\net6.0\zd68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79160\Desktop\homework#9\zd68\obj\Debug\net6.0\zd68.AssemblyInfoInputs.cache
+C:\Users\79160\Desktop\homework#9\zd68\obj\Debug\net6.0\zd68.AssemblyInfo.cs
+C:\Users\79160\Desktop\homework#9\zd68\obj\Debug\net6.0\zd68.csproj.CoreCompileInputs.cache
+C:\Users\79160\Desktop\homework#9\zd68\obj\Debug\net6.0\zd68.dll
+C:\Users\79160\Desktop\homework#9\zd68\obj\Debug\net6.0\ref\zd68.dll
+C:\Users\79160\Desktop\homework#9\zd68\obj\Debug\net6.0\zd68.pdb
+C:\Users\79160\Desktop\homework#9\zd68\obj\Debug\net6.0\zd68.genruntimeconfig.cache
